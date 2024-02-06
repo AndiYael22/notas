@@ -21,10 +21,11 @@ y solo cambiamos el apartado de password
 
 despues de esto debe estar listo para ejecutarse
 al momento de ver el proyecto primero se debe crear un usuario para poder acceder 
-![image](https://github.com/ensolvers-github-challenges/YaelBlancasVazquez-d109db/assets/114039108/c17990bf-efe6-4a78-918a-b0f2052627c8)
-![image](https://github.com/ensolvers-github-challenges/YaelBlancasVazquez-d109db/assets/114039108/c2555d6c-45cb-43ac-aeb2-ce6a66e0d0dc)
-![image](https://github.com/ensolvers-github-challenges/YaelBlancasVazquez-d109db/assets/114039108/15b030f9-ecb0-4e3e-a669-22b60eab1e99)
-![image](https://github.com/ensolvers-github-challenges/YaelBlancasVazquez-d109db/assets/114039108/b00e36bb-98ea-4121-8c51-7baf22d55052)
-![image](https://github.com/ensolvers-github-challenges/YaelBlancasVazquez-d109db/assets/114039108/89366eda-8456-400c-94c5-4c73c490dc10)
-![image](https://github.com/ensolvers-github-challenges/YaelBlancasVazquez-d109db/assets/114039108/f48fbe37-2342-478e-8b98-4c9de91d5e9c)
+![image](https://github.com/AndiYael22/notas/assets/114039108/c8a33bce-a21b-4a0c-8335-8dd1e70cd729)
+![image](https://github.com/AndiYael22/notas/assets/114039108/5290885d-9fbb-47cc-87ec-46444f8074b1)
+![image](https://github.com/AndiYael22/notas/assets/114039108/a0ef751e-d445-439d-9c2f-3e75ff236764)
+![image](https://github.com/AndiYael22/notas/assets/114039108/ca63f532-762c-415b-8fb6-9294977bd79d)
+![image](https://github.com/AndiYael22/notas/assets/114039108/6604b6f0-c011-430a-a817-6027fa773477)
+![image](https://github.com/AndiYael22/notas/assets/114039108/e891a559-855a-4910-be70-474d4d4d987a)
+
 
