@@ -1,0 +1,56 @@
+body{
+    background-image: url('../imagenes/paisaje-de-lago-en-las-montanas-al-amanecer-7254.webp');
+    background-size: cover;
+}
+.contenedor{
+    background: rgba(250, 241, 241, 0.5);
+width: 400px;
+height: 410px;
+margin:auto;
+position: absolute;
+top: 50%;
+left:50%;
+transform: translate(-50%,-50%);
+align-items: center;
+display: flex;
+flex-direction: column;
+border-radius: 20%;
+
+}
+h2{
+    margin-top:16% ;
+font-size: 30px;
+}
+.label{
+    font-size: 20px;
+    font-weight:bold ;
+    color: #333;
+   
+}
+.login{
+    margin: 5px 0; 
+    border-radius: 10px;
+    height: 30px;
+    width: 300px;
+    border-color:rgba(138, 136, 136, 0.5);
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+ 
+  .boton1 {
+    background-color: #fff; 
+    color: #333; 
+    border: 1px solid #ccc;
+    width: 130px;
+    height: 30px;
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 100px;
+    transition: background-color 0.3s ease;
+  margin: 10px;
+  
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
